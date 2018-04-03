@@ -1,0 +1,10 @@
+/Users/apple/Documents/csvreader/csvreader/bin/Debug/netcoreapp2.0/csvreader.deps.json
+/Users/apple/Documents/csvreader/csvreader/bin/Debug/netcoreapp2.0/csvreader.runtimeconfig.json
+/Users/apple/Documents/csvreader/csvreader/bin/Debug/netcoreapp2.0/csvreader.runtimeconfig.dev.json
+/Users/apple/Documents/csvreader/csvreader/bin/Debug/netcoreapp2.0/csvreader.dll
+/Users/apple/Documents/csvreader/csvreader/bin/Debug/netcoreapp2.0/csvreader.pdb
+/Users/apple/Documents/csvreader/csvreader/obj/Debug/netcoreapp2.0/csvreader.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/csvreader/csvreader/obj/Debug/netcoreapp2.0/csvreader.AssemblyInfoInputs.cache
+/Users/apple/Documents/csvreader/csvreader/obj/Debug/netcoreapp2.0/csvreader.AssemblyInfo.cs
+/Users/apple/Documents/csvreader/csvreader/obj/Debug/netcoreapp2.0/csvreader.dll
+/Users/apple/Documents/csvreader/csvreader/obj/Debug/netcoreapp2.0/csvreader.pdb
